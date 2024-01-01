@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @miguelsilva5989
+- 🧾 I've been working in IT since 2012 mostly as a Data Engineer/Business Intelligence consultant
 - 👀 I’m interested in Python and Rust projects
 - 🌱 I’m currently learning Rust
 
