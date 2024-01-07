@@ -3,7 +3,7 @@
 - 👀 I’m interested in Python and Rust projects
 - 🌱 I’m currently learning Rust
 
-I am now developing my own meme 🙃 programming language [FPS Lang](https://github.com/miguelsilva5989/fps-lang) in `Rust` take a look and have fun 😊
+I am now developing my own meme 🙃 programming language [FPS Lang](https://github.com/miguelsilva5989/fps-lang) in `Rust`. Take a look and have fun 😊
 
 ```rust
 // this is FRAME 0
