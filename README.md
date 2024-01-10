@@ -10,9 +10,11 @@ I am now developing my own meme 🙃 programming language [FPS Lang](https://git
 print("printed at frame 1 - declared at frame 0");
 let a = 0;
 
-#3 // frame 1 will be executed 3 times
+#3 // frame 1 content will be spread out accross the next 3 frames - but special attention to the for loop!
+// this message will be printed out 3 times (at frames 2,3,4)
 print("printed at frames 2|3|4 - declared at frame 1");
 
+// each for loop iteration is a new frame, which means the inner loop statements will executed for 6 frames -> 3 (frames) * 2 (range 0..=1)
 for 0..=1 {
     print("printed at frames 2|3|4|5|6|7 - declared at frame 1 inside for loop"); 
     a = a + 1;
